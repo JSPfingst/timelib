@@ -7,3 +7,10 @@
 
 1550495917 source:c:\users\teilnehmer.pc29\desktop\timelib\main.c
 
+1551168912 source:d:\timelib\main.c
+	<stdio.h>
+	<stdlib.h>
+	"timelib.h"
+
+1551168838 d:\timelib\timelib.h
+
